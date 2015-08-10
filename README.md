@@ -1,5 +1,5 @@
-# Texture Region Capture (Ver. 1.5)
-Plug-in for Vuforia 4
+# Texture Region Capture (Ver. 1.5.5)
+Plug-in for Vuforia 5.0.5
 
 How to setup:
 
@@ -22,6 +22,8 @@ How to use:
 	6. Enable "Show Texture" checkbox, to draw RenderTexture in GUI.
 
 	7. Set value from 0 to 10 in "Reduce Noise" range to reduce color noise in capturing image.
+
+	8. Enable "Check Marker Position" checkbox, to get state (see console messages) if the marker is out of bounds.
 
 
   Best Regards, Maxim Ruf
