@@ -1,4 +1,4 @@
-# Texture Region Capture (Ver. 1.5.5)
+# Texture Region Capture (Ver. 1.6.0)
 Plug-in for Vuforia 5.0.5
 
 How to setup:
@@ -24,6 +24,14 @@ How to use:
 	7. Set value from 0 to 10 in "Reduce Noise" range to reduce color noise in capturing image.
 
 	8. Enable "Check Marker Position" checkbox, to get state (see console messages) if the marker is out of bounds.
+
+Available methods:
+
+Region_Capture.RecalculateRegionSize();	//	Call it - if the marker has changed.
+
+RenderTextureCamera.RecalculateTextureSize();	//	Call it - if the marker or size of renderTexture has changed.
+
+RenderTextureCamera.MakeScreen();	//	Call it - if you want to save RegionTexture to localStorage.
 
 
   Best Regards, Maxim Ruf
