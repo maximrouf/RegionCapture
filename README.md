@@ -1,5 +1,7 @@
-# Texture Region Capture (Ver. 1.6.0)
+# Texture Region Capture (Ver. 1.6.1)
 Plug-in for Vuforia 5.0.5
+
+* MakeScreen() fixed on Android.
 
 How to setup:
 
