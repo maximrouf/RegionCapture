@@ -1,7 +1,7 @@
-# Texture Region Capture (Ver. 1.6.1)
+# Texture Region Capture (Ver. 1.6.5)
 Plug-in for Vuforia 5.0.5
 
-* MakeScreen() fixed on Android.
+* Save to IOS gallery not working now. It will be fixed in next release.
 
 How to setup:
 
