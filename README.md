@@ -1,5 +1,5 @@
 # Texture Region Capture (Ver. 1.6.9)
-Plug-in for Vuforia 5.0.5
+Plug-in for Vuforia 5.0.X
 
 Note: 
 
