@@ -1,16 +1,25 @@
-# Texture Region Capture (Ver. 1.6.9)
+# Texture Region Capture (Ver. 1.7.1)
 Plug-in for Vuforia 5.0.X
 
-Note: 
+Release notes:  
 
-* IOS builds - Save image to Gallery worked now.
+* Global perfomance +10%
+* MultiTarget - added
+* StereoMode - fixed
 
-* Black pixels around captured texture has been fixed.
+* Shift texture on small ImageTargets in Editor - fixed
+* Shift texture on some devices - fixed (not tested!)
 
-* "Reduse Noise" option has been removed.
+* "Hide Android Toolbar" function - moved to RC_Tools
+* "Autofocus Camera" function - moved to RC_Tools
+* "Marker Background" functuon - updated
 
-* Unity 4X is not supported more.
+* Samples code - updated
 
+* Now you can place RegionCapture prefab into ImageTarget
+
+---------------------------------------------------------------
+Unity 4X is not supported.
 
 
 How to setup:
@@ -30,15 +39,15 @@ How to use:
 
 	4. Enable "Check Marker Position" checkbox, to get state (see console messages) if the marker is out of bounds.
 
-	5. Enable "Autofocus Camera" checkbox, if you want to use autofocus on Android devices.
+	5. Enable "Color Debug Mode" checkbox, to highlight captured marker.
 
-	6. Enable "Hide Android Toolbar" checkbox, to hide navigation toolbar on devices without physical buttons.
+	6. Enable "Show Texture" checkbox, to draw RenderTexture in GUI.
 
-	7. Enable "Color Debug Mode" checkbox, to highlight captured marker.
+	7. Add any texture to the "Marker Background" field if you want to overwrite white spots in captured texture.
+	
+	8. Enable "Autofocus Camera" checkbox, if you want to use autofocus on Android devices.
 
-	8. Enable "Show Texture" checkbox, to draw RenderTexture in GUI.
-
-	9. Add any texture to the "Marker Background" field if you want to overwrite white spots in captured texture.
+	9. Enable "Hide Android Toolbar" checkbox, to hide navigation toolbar on devices without physical buttons.
 
 
 How to IOS build:
