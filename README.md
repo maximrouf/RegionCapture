@@ -4,6 +4,7 @@ Plug-in for Vuforia 5.0.X
 Release notes:  
 
 * Global perfomance - 10%
+
 * MultiTarget - added
 * StereoMode - fixed
 
