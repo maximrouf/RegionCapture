@@ -1,7 +1,15 @@
-# Texture Region Capture (Ver. 1.7.1)
+# Texture Region Capture (Ver. 1.7.2)
 Plug-in for Vuforia 5.0.X
 
 Release notes:  
+---------------------------------------------------------------
+Version 1.7.2
+
+* "GL.GetGPUProjectionMatrix" changed to "Vuforia.VuforiaUnity.GetProjectionGL"
+
+---------------------------------------------------------------
+
+Version 1.7.1
 
 * Global perfomance - 10%
 
