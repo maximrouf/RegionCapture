@@ -23,7 +23,7 @@ Release notes:
 
 How to setup:
 
-	1. Create a new layer в„–20 "Region_Capture"
+	1. Create a new layer №20 "Region_Capture"
 	2. Drag Prefab into the scene
 	3. Set a references (to the game objects) in Prefab
 
