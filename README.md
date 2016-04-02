@@ -1,15 +1,7 @@
-# Texture Region Capture (Ver. 1.7.2)
-Plug-in for Vuforia 5.0.X
+# Texture Region Capture (Ver. 1.7.7)
+Plugin for Vuforia 5.X & Unity 5.X
 
 Release notes:  
----------------------------------------------------------------
-Version 1.7.2
-
-* "GL.GetGPUProjectionMatrix" changed to "Vuforia.VuforiaUnity.GetProjectionGL"
-
----------------------------------------------------------------
-
-Version 1.7.1
 
 * Global perfomance - 10%
 
@@ -28,12 +20,10 @@ Version 1.7.1
 * Now you can place RegionCapture prefab into ImageTarget
 
 ---------------------------------------------------------------
-Unity 4X is not supported.
-
 
 How to setup:
 
-	1. Create a new layer №20 "Region_Capture"
+	1. Create a new layer в„–20 "Region_Capture"
 	2. Drag Prefab into the scene
 	3. Set a references (to the game objects) in Prefab
 
