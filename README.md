@@ -1,23 +1,5 @@
-# Texture Region Capture (Ver. 1.7.7)
+# Texture Region Capture (Ver. 1.8.0)
 Plugin for Vuforia 5.X & Unity 5.X
-
-Release notes:  
-
-* Global perfomance - 10%
-
-* MultiTarget - added
-* StereoMode - fixed
-
-* Shift texture on small ImageTargets in Editor - fixed
-* Shift texture on some devices - fixed (not tested!)
-
-* "Hide Android Toolbar" function - moved to RC_Tools
-* "Autofocus Camera" function - moved to RC_Tools
-* "Marker Background" functuon - updated
-
-* Samples code - updated
-
-* Now you can place RegionCapture prefab into ImageTarget
 
 ---------------------------------------------------------------
 
