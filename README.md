@@ -23,9 +23,11 @@ How to use:
 	
 	2. Get Texture from "Render_Texture_Camera" in "PlayMode" - RenderTextureCamera.GetRenderTexture()
 
-	3. Enable "Check if the plane is out of bounds" checkbox to get the Events, if the capturing plane <br> is out of a Camera bounds
+	3. Enable "Check if the plane is out of bounds" checkbox to get the Events, if the capturing plane 
+	is out of a Camera bounds
 
-	4. If all works fine - switch off Layer "Region_Capture" in : ARCamera -> Camera -> Culling Mask <br> (or enable the "Hide this layer from ARCamera" checkbox);
+	4. If all works fine - switch off Layer "Region_Capture" in : ARCamera -> Camera -> Culling Mask 
+	(or enable the "Hide this layer from ARCamera" checkbox);
 
 
 Available methods:
