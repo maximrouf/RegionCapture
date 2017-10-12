@@ -8,12 +8,13 @@ Compatibility with Vuforia 6.5 - 7.X
 
 How to setup:
 
-	1. Create a new Unity project
-	2. Go to "Project settings -> Player" and select the "XR Settings -> Vuforia" checkbox
-	3. Then click in the upper menu to "GameObject -> Vuforia -> ARCamera" (to import Vuforia files into the project)
-	4. Select "Resources -> VuforiaConfiguration" in the "Project View" and paste your licence key in the upper field
-	5. Also - you need to enable "Load StonesAndChips" checkbox in the "Datasets" rollout and click "Activate"
-	6. Now you can test the demo-scenes into "Assets -> Region_Capture -> Examples"
+	1. Start a new Unity project
+	2. Open the Layers-tab in "Project settings -> Tags and Layers" and set the "Layer №20" name as "Region_Capture" 
+	3. Go to "Project settings -> Player" and select the "XR Settings -> Vuforia" checkbox
+	4. Then click in the upper menu to "GameObject -> Vuforia -> ARCamera" (to import Vuforia files into the project)
+	5. Select "Resources -> VuforiaConfiguration" in the "Project View" and paste your licence key in the upper field
+	6. Also - you need to enable "Load StonesAndChips" checkbox in the "Datasets" rollout and click "Activate"
+	7. Now you can test the demo-scenes into "Assets -> Region_Capture -> Examples"
 
 
 How to use:
