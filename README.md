@@ -9,7 +9,7 @@ Compatibility with Vuforia 6.5 - 7.X
 How to setup:
 
 	1. Create a new Unity project
-	2. Go to "Project setings -> Player" and select the "XR Settings -> Vuforia" checkbox
+	2. Go to "Project settings -> Player" and select the "XR Settings -> Vuforia" checkbox
 	3. Then click in the upper menu to "GameObject -> Vuforia -> ARCamera" (to import Vuforia files into the project)
 	4. Select "Resources -> VuforiaConfiguration" in the "Project View" and paste your licence key in the upper field
 	5. Also - you need to enable "Load StonesAndChips" checkbox in the "Datasets" rollout and click "Activate"
