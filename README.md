@@ -2,7 +2,7 @@
 Plugin for Unity 2017.2 and higher
 
 Compatibility with Vuforia 6.5 - 7.X
-ARCore and ARKit - Coming soon
+ (ARCore and ARKit - Coming soon)
 
 ---------------------------------------------------------------
 
