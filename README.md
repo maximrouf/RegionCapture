@@ -30,7 +30,7 @@ Available methods:
 
 	Region_Capture.RecalculateRegionSize();		//	Call it - if the marker has changed
 
-	RenderTextureCamera.RecalculateTextureSize();		//	Call it - if the marker or size of renderTexture has changed
+	RenderTextureCamera.RecalculateTextureSize();	//	Call it - if the marker or size of renderTexture has changed
 
 	RenderTextureCamera.MakeScreen();		//	Call it - if you want to save RegionTexture to localStorage
 
