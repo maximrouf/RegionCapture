@@ -12,7 +12,8 @@ How to setup:
 	2. Go to "Project setings -> Player" and select the "XR Settings -> Vuforia" checkbox
 	3. Then click in the upper menu to "GameObject -> Vuforia -> ARCamera" (to import Vuforia files into the project)
 	4. Select "Resources -> VuforiaConfiguration" in the "Project View" and paste your licence key in the upper field
-	5. Now you can test the demo-scenes into "Assets -> Region_Capture -> Examples"
+	5. Also - you need to enable "Load StonesAndChips" checkbox in the "Datasets" rollout and click "Activate"
+	6. Now you can test the demo-scenes into "Assets -> Region_Capture -> Examples"
 
 
 How to use:
