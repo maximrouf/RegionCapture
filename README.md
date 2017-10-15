@@ -4,7 +4,7 @@ Plugin for Unity 2017.2 and higher
 Compatibility with Vuforia 6.5 - 7.X
  (ARCore and ARKit - Coming soon)
 
----------------------------------------------------------------
+![Region Capture description](https://raw.githubusercontent.com/maximrouf/RegionCapture/master/Images/RegionCapture.jpg)
 
 How to setup:
 
