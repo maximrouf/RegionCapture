@@ -59,7 +59,7 @@ Bug report should be in the following format:
 5. Device OS version
 6. Orientation of the device (portrait / landscape / both)
 
-If you want to attach a screenshot, please use the image upload service. ( [for example](https: //imgbb.com) )
+If you want to attach a screenshot, please use the image upload service.  ( [for example - https://imgbb.com](https://imgbb.com) )
   
   
   Best Regards, Maxim Rouf
