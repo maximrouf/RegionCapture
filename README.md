@@ -37,7 +37,7 @@ How to use:
 	4. If all works fine - switch off Layer "Region_Capture" in : ARCamera -> Camera -> Culling Mask 
 	   (or enable the "Hide this layer from ARCamera" checkbox);
 
-
+       	
 Available methods:
 
 	Region_Capture.RecalculateRegionSize();		//  Call it - if the marker has changed
@@ -47,17 +47,17 @@ Available methods:
 	RenderTextureCamera.MakeScreen();		//  Call it - if you want to save RegionTexture to localStorage
 
 
-  
+       	
 If you see a shift of the captured image or another bug, please report [here](https://developer.vuforia.com/forum/unity-extension-technical-discussion/region-capture-0)
 
 Bug report should be in the following format:
 
-1. Unity version
-2. Vuforia version
-3. RegionCapture version
-4. Device name
-5. Device OS version
-6. Orientation of the device (portrait / landscape / both)
+	1. Unity version
+	2. Vuforia version
+	3. RegionCapture version
+	4. Device name
+	5. Device OS version
+	6. Orientation of the device (portrait / landscape / both)
 
 If you want to attach a screenshot, please use the image upload service.  ( [for example - https://imgbb.com](https://imgbb.com) )
   
