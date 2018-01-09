@@ -1,4 +1,4 @@
-# Texture Region Capture (Ver. 2.0)
+# Texture Region Capture (Ver. 2.0.6)
 Plugin for Unity 2017.2 and higher
 
 Compatibility with Vuforia 6.5 - 7.X
