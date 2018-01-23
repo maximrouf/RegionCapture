@@ -1,8 +1,8 @@
 # Texture Region Capture (Ver. 2.0.6)
-Plugin for Unity 2017.2 and higher
+Plugin for Unity 2017 and higher
 
-Compatibility with Vuforia 6.5 - 7.X
- (ARCore and ARKit - Coming soon)
+Compatibility with Vuforia 6.X - 7.X
+  (ARCore and ARKit - Coming soon)
 
 EasyAR is not supported. ([A special version for EasyAR is here](https://drive.google.com/uc?id=1-8_fsyE8pKoK_0zPuoJRveJAlNCk5feo&export=download))
 
