@@ -1,4 +1,4 @@
-# Texture Region Capture (Ver. 2.0.6)
+# Texture Region Capture (Ver. 2.0.8)
 Plugin for Unity 2017 and higher
 
 > Compatibility with Vuforia 6.X - 7.X
@@ -25,7 +25,9 @@ How to setup:
 
 	7. Also you need to enable "Load StonesAndChips" checkbox in the "Datasets" rollout and click "Activate"
 
-	8. Run the demo-scenes into "Assets -> Region_Capture -> Examples"
+	8. Then set the "World Center Mode" in the ARCamera settings as "First_Target"
+
+	9. Run the demo-scenes into "Assets -> Region_Capture -> Examples"
 
 
 How to use:
@@ -40,6 +42,7 @@ How to use:
 	4. If all works fine - switch off Layer "Region_Capture" in : ARCamera -> Camera -> Culling Mask 
 	   (or enable the "Hide this layer from ARCamera" checkbox);
 
+	5. You can switch from "Game" to the "Scene" window in PlayMode only after the marker is found.
        	
 Available methods:
 
