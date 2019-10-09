@@ -1,11 +1,9 @@
-# Texture Region Capture (Ver. 2.0.9)
-Plugin for Unity 2017 and higher
+# Texture Region Capture (Ver. 2.2.0)
+Plugin for Unity 2019.2.8 and higher
 
-> Compatibility with Vuforia 6.X - 7.X
+> Compatibility with Vuforia 8.3.9
 
-> ARCore & ARKit - Coming soon
-
-EasyAR is not supported. ([A special version for EasyAR is here](https://drive.google.com/uc?id=1-8_fsyE8pKoK_0zPuoJRveJAlNCk5feo&export=download))
+ARCore, ARKit and EasyAR plugins for Unity has not been tested with the RegionCapture 2.2.0
 
 ![Region Capture description](https://raw.githubusercontent.com/maximrouf/RegionCapture/master/Images/RegionCapture.jpg)
 
@@ -15,19 +13,19 @@ How to setup:
 
 	2. Open the Layers-tab in "Project settings -> Tags and Layers" and set the "Layer №20" name as "Region_Capture" 
 
-	3. Go to "Project settings -> Player" and select the "XR Settings -> Vuforia" checkbox
+	3. Go to the "Player Settings" -> "XR Settings" and select "Vuforia AR supported" checkbox
 
-	4. Then click in the upper menu to "GameObject -> Vuforia -> ARCamera" (to import Vuforia files into the project)
+	4. Now you can import the "RegionCapture_2.2.0.unitypackage" into your project
 
-	5. Now you can import the "RegionCapture_2.0.unitypackage" into your project
+	5. Select "Resources" -> "VuforiaConfiguration" in the "Project View" and paste your licence key in the upper field
 
-	6. Select "Resources -> VuforiaConfiguration" in the "Project View" and paste your licence key in the upper field
-
-	7. Also you need to enable "Load StonesAndChips" checkbox in the "Datasets" rollout and click "Activate"
+	6. Also you need to import the "StonesAndChips.unitypackage" in the "Region_Capture" -> "Markers" 
+	
+	7. And select it on the "ImageTarget Behaviour" at the "Database" rollout
 
 	8. Then set the "World Center Mode" in the ARCamera settings as "First_Target"
 
-	9. Run the demo-scenes into "Assets -> Region_Capture -> Examples"
+	9. Run the demo-scenes into "Assets" -> "Region_Capture" -> "Scenes" folder
 
 
 How to use:
