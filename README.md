@@ -1,9 +1,9 @@
-# Texture Region Capture (Ver. 2.2.0)
+# Texture Region Capture (Ver. 2.2.1)
 Plugin for Unity 2019.2.8 and higher
 
 > Compatibility with Vuforia 8.3.9
 
-ARCore, ARKit and EasyAR plugins for Unity has not been tested with the RegionCapture 2.2.0
+ARCore, ARKit and EasyAR plugins for Unity has not been tested with the RegionCapture 2.2.1
 
 ![Region Capture description](https://raw.githubusercontent.com/maximrouf/RegionCapture/master/Images/RegionCapture.jpg)
 
