@@ -11,7 +11,7 @@ How to setup:
 
 	1. Start a new Unity project
 
-	2. Open the Layers-tab in "Project settings -> Tags and Layers" and set the "Layer №20" name as "Region_Capture" 
+	2. Open the Layers-tab in "Project settings -> Tags and Layers" and set the "Layer №20" name as "RegionCapture" 
 
 	3. Go to the "Player Settings" -> "XR Settings" and select "Vuforia AR supported" checkbox
 
