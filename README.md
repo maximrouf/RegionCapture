@@ -3,7 +3,7 @@ Plugin for Unity 2019.2.10 and higher
 
 > Compatibility with Vuforia 8.3.9
 
-ARCore, ARKit and EasyAR plugins for Unity has not been tested with the RegionCapture 2.2.1
+ARCore, ARKit and EasyAR plugins for Unity has not been tested with the RegionCapture 2.2.2
 
 ![Region Capture description](https://raw.githubusercontent.com/maximrouf/RegionCapture/master/Images/RegionCapture.jpg)
 
