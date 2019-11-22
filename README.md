@@ -1,21 +1,21 @@
-# Texture Region Capture (Ver. 2.2.2)
-Plugin for Unity 2019.2.10 and higher
+# Texture Region Capture (Ver. 2.2.5)
+Plugin for Unity 2019.2.12 and higher
 
 > Compatibility with Vuforia 8.3.9
 
-ARCore, ARKit and EasyAR plugins for Unity has not been tested with the RegionCapture 2.2.2
+ARCore and ARKit are supported by Unity ARFoundation (You can setup it from the Package Manager)
 
 ![Region Capture description](https://raw.githubusercontent.com/maximrouf/RegionCapture/master/Images/RegionCapture.jpg)
 
-How to setup:
+How to setup (for Vuforia):
 
 	1. Start a new Unity project
 
-	2. Open the Layers-tab in "Project settings -> Tags and Layers" and set the "Layer №20" name as "RegionCapture" 
+	2. (For Android only) Go to the "Player Settings" -> "Other" -> "Rendering" and set OPENGLES3 in the first line
 
 	3. Go to the "Player Settings" -> "XR Settings" and select "Vuforia AR supported" checkbox
 
-	4. Now you can import the "RegionCapture_2.2.0.unitypackage" into your project
+	4. Now you can import the "RegionCapture_2.2.5.unitypackage" into your project
 
 	5. Select "Resources" -> "VuforiaConfiguration" in the "Project View" and paste your licence key in the upper field
 
@@ -43,10 +43,6 @@ How to use:
 	5. You can switch from "Game" to the "Scene" window in PlayMode only after the marker is found.
        	
 Available methods:
-
-	Region_Capture.RecalculateRegionSize();		//  Call it - if the marker has changed
-
-	RenderTextureCamera.RecalculateTextureSize();	//  Call it - if the marker or size of renderTexture has changed
 
 	RenderTextureCamera.MakeScreen();		//  Call it - if you want to save RegionTexture to localStorage
 
